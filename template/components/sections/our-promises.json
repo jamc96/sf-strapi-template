@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_sections_our_promises",
+  "info": {
+    "name": "ourPromises",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "cards": {
+      "type": "component",
+      "repeatable": true,
+      "component": "global.card-image"
+    }
+  }
+}

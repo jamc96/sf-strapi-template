@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_sections_mail_to_us",
+  "info": {
+    "name": "mailToUs",
+    "icon": "mail-bulk"
+  },
+  "options": {},
+  "attributes": {
+    "iconUrl": {
+      "type": "string"
+    },
+    "label": {
+      "type": "string"
+    },
+    "cards": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.edito"
+    }
+  }
+}
