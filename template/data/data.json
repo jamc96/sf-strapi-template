@@ -1,35 +1,26 @@
 {
     "pages": [
         {
-          "id": 1,
           "name": "home",
-          "slug": "index",
+          "slug": "home",
           "hideNavigation": false,
-          "published_at": "2021-09-30T17:04:15.648Z",
-          "created_at": "2021-09-30T17:01:42.970Z",
-          "updated_at": "2021-10-04T16:21:36.111Z",
           "sections": [
             {
               "__component": "sections.our-promises",
-              "id": 2,
               "label": "Our Promise",
               "cards": [
                 {
-                  "id": 1,
                   "orientation": "right",
                   "content": {
-                    "id": 1,
                     "label": "Community ",
                     "title": "Empower Lives",
                     "text": "We create and endorse initiatives that engage and inspire people through skills training, sports, health initiatives which help to tackle complex social issues head-on to strengthen communities. "
                   },
                   "button": {
-                    "id": 1,
                     "label": "LEARN MORE",
                     "primary": true
                   },
                   "image": {
-                    "id": 4,
                     "name": "promise1.png",
                     "alternativeText": "",
                     "caption": "",
@@ -66,27 +57,21 @@
                     "url": "/uploads/promise1_7ce2b1e840.png",
                     "previewUrl": null,
                     "provider": "local",
-                    "provider_metadata": null,
-                    "created_at": "2021-09-30T17:13:19.111Z",
-                    "updated_at": "2021-09-30T17:13:19.211Z"
+                    "provider_metadata": null
                   }
                 },
                 {
-                  "id": 2,
                   "orientation": "left",
                   "content": {
-                    "id": 2,
                     "label": "Education ",
                     "title": "Encourage Dreams",
                     "text": "We provide both children and adults with essential tools such as scholarships, supplies, technology, literacy programmes, mentorship and teach training to help them reach their full potential."
                   },
                   "button": {
-                    "id": 3,
                     "label": "LEARN MORE",
                     "primary": true
                   },
                   "image": {
-                    "id": 2,
                     "name": "promise2.png",
                     "alternativeText": "",
                     "caption": "",
@@ -123,27 +108,21 @@
                     "url": "/uploads/promise2_34ce8b8cf7.png",
                     "previewUrl": null,
                     "provider": "local",
-                    "provider_metadata": null,
-                    "created_at": "2021-09-30T17:13:18.587Z",
-                    "updated_at": "2021-09-30T17:13:18.719Z"
+                    "provider_metadata": null
                   }
                 },
                 {
-                  "id": 3,
                   "orientation": "right",
                   "content": {
-                    "id": 3,
                     "label": "Environment ",
                     "title": "Cultivate Tomorrow",
                     "text": "We promise to raise environmental awareness, develop effective conservation practices and teach future generations how to care for their communities to our precious Islands and their resources."
                   },
                   "button": {
-                    "id": 2,
                     "label": "LEARNING MORE",
                     "primary": true
                   },
                   "image": {
-                    "id": 3,
                     "name": "promise3.png",
                     "alternativeText": "",
                     "caption": "",
@@ -180,19 +159,15 @@
                     "url": "/uploads/promise3_1fd99c1eb9.png",
                     "previewUrl": null,
                     "provider": "local",
-                    "provider_metadata": null,
-                    "created_at": "2021-09-30T17:13:18.845Z",
-                    "updated_at": "2021-09-30T17:13:19.003Z"
+                    "provider_metadata": null
                   }
                 }
               ]
             },
             {
               "__component": "sections.our-impact",
-              "id": 1,
               "label": "ourImpact",
               "backgroundImage": {
-                "id": 1,
                 "name": "our_impact_map_desk.jpg",
                 "alternativeText": "",
                 "caption": "",
@@ -251,37 +226,30 @@
                 "url": "/uploads/our_impact_map_desk_a02c6ba764.jpg",
                 "previewUrl": null,
                 "provider": "local",
-                "provider_metadata": null,
-                "created_at": "2021-09-30T17:09:49.037Z",
-                "updated_at": "2021-09-30T17:09:49.102Z"
+                "provider_metadata": null
               }
             },
             {
               "__component": "sections.mail-to-us",
-              "id": 1,
               "iconUrl": null,
               "label": "you can also mail a check to us",
               "cards": [
                 {
-                  "id": 4,
                   "label": "",
                   "title": "United States",
                   "text": "4950 SW 72nd Avenue Miami Florida 33155"
                 },
                 {
-                  "id": 5,
                   "label": null,
                   "title": "United kingdom",
                   "text": "32 Ives Street, London SW3 2ND"
                 },
                 {
-                  "id": 6,
                   "label": null,
                   "title": "Jamaica",
                   "text": "5 Kent Avenue Montego Bay, Jamaica West Indies"
                 },
                 {
-                  "id": 7,
                   "label": null,
                   "title": "Canada",
                   "text": "4211 Yonge Street, Suite 320 Willowdale, Ontario M2P2A9"
@@ -291,34 +259,24 @@
           ]
         },
         {
-          "id": 2,
           "name": "AboutUs",
           "slug": "about-us",
           "hideNavigation": null,
-          "published_at": "2021-09-30T20:03:25.658Z",
-          "created_at": "2021-09-30T20:02:16.834Z",
-          "updated_at": "2021-09-30T20:03:25.795Z",
           "sections": [
             {
               "__component": "sections.our-impact",
-              "id": 3,
               "label": "My new Section",
               "backgroundImage": null
             }
           ]
         },
         {
-          "id": 3,
           "name": "donation",
           "slug": "donation",
           "hideNavigation": true,
-          "published_at": "2021-09-30T20:22:04.016Z",
-          "created_at": "2021-09-30T20:19:23.200Z",
-          "updated_at": "2021-09-30T20:23:20.593Z",
           "sections": [
             {
               "__component": "sections.our-promises",
-              "id": 3,
               "label": "my new promise",
               "cards": []
             }
